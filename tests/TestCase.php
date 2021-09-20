@@ -2,9 +2,9 @@
 
 namespace Callmehalpha\Larapayment\Tests;
 
+use Callmehalpha\Larapayment\LarapaymentServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Callmehalpha\Larapayment\LarapaymentServiceProvider;
 
 class TestCase extends Orchestra
 {
