@@ -2,9 +2,9 @@
 
 namespace Callmehalpha\Larapayment;
 
+use Callmehalpha\Larapayment\Commands\LarapaymentCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Callmehalpha\Larapayment\Commands\LarapaymentCommand;
 
 class LarapaymentServiceProvider extends PackageServiceProvider
 {
