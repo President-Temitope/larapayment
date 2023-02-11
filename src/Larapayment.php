@@ -6,6 +6,5 @@ class Larapayment
 {
     public function __construct()
     {
-
     }
 }
